@@ -1,0 +1,37 @@
+[0.459s] Invoking command in '/home/fer18171/ros2_ws/src/rover_location_optitrack_pkg': PYTHONPATH=/home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rover_location_optitrack_pkg build --build-base /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/build install --prefix /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg --record /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/install.log --single-version-externally-managed
+[0.566s] running egg_info
+[0.567s] creating ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info
+[0.567s] writing ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/PKG-INFO
+[0.567s] writing dependency_links to ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/dependency_links.txt
+[0.567s] writing entry points to ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/entry_points.txt
+[0.567s] writing requirements to ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/requires.txt
+[0.567s] writing top-level names to ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/top_level.txt
+[0.573s] writing manifest file '../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/SOURCES.txt'
+[0.591s] reading manifest file '../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/SOURCES.txt'
+[0.592s] writing manifest file '../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/SOURCES.txt'
+[0.592s] running build
+[0.592s] running build_py
+[0.592s] creating /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/build
+[0.592s] creating /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/build/lib
+[0.592s] creating /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg
+[0.592s] copying rover_location_optitrack_pkg/optitrack_client.py -> /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg
+[0.592s] copying rover_location_optitrack_pkg/__init__.py -> /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg
+[0.592s] running install
+[0.593s] running install_lib
+[0.594s] creating /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg
+[0.594s] copying /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg/optitrack_client.py -> /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg
+[0.594s] copying /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg/__init__.py -> /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg
+[0.594s] byte-compiling /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg/optitrack_client.py to optitrack_client.cpython-38.pyc
+[0.595s] byte-compiling /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg/__init__.py to __init__.cpython-38.pyc
+[0.595s] running install_data
+[0.595s] creating /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/share/ament_index
+[0.595s] creating /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/share/ament_index/resource_index
+[0.595s] creating /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/share/ament_index/resource_index/packages
+[0.595s] copying resource/rover_location_optitrack_pkg -> /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/share/ament_index/resource_index/packages
+[0.595s] copying package.xml -> /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/share/rover_location_optitrack_pkg
+[0.595s] running install_egg_info
+[0.596s] Copying ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info to /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg-0.0.0-py3.8.egg-info
+[0.597s] running install_scripts
+[0.607s] Installing optitrack_client script to /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/lib/rover_location_optitrack_pkg
+[0.607s] writing list of installed files to '/home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/install.log'
+[0.620s] Invoked command in '/home/fer18171/ros2_ws/src/rover_location_optitrack_pkg' returned '0': PYTHONPATH=/home/fer18171/ros2_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rover_location_optitrack_pkg build --build-base /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/build install --prefix /home/fer18171/ros2_ws/install/rover_location_optitrack_pkg --record /home/fer18171/ros2_ws/build/rover_location_optitrack_pkg/install.log --single-version-externally-managed
